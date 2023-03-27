@@ -1,0 +1,20 @@
+[
+  {
+    "electionid": "1",
+    "ename": "ASC Elections 2023",
+    "start_date": "2023-06-10",
+    "end_date": "2023-06-13",
+    "candidates": [
+      {
+        "id": "101",
+        "sname": "Ama Boakye",
+        "position": "President"
+      },
+      {
+        "id": "102",
+        "sname": "Kwesi Darko",
+        "position": "Vice President"
+      }
+    ]
+  }
+]
